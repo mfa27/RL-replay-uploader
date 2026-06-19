@@ -1,0 +1,23 @@
+{
+  "name": "rl-replay-uploader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfa27/RL-replay-uploader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mfa27/RL-replay-uploader/issues"
+  },
+  "homepage": "https://github.com/mfa27/RL-replay-uploader#readme",
+  "dependencies": {
+    "axios": "^1.18.0",
+    "chokidar": "^5.0.0"
+  }
+}
